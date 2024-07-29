@@ -1,0 +1,74 @@
+    @media (min-width: 768px) {
+
+      #HEADLINE3,
+      #BUTTON3,
+      #IMAGE5,
+      #GROUP6,
+      #SHAPE34,
+      #SHAPE35,
+      #GROUP107,
+      #GROUP108,
+      #GROUP111,
+      #GROUP116,
+      #HEADLINE98,
+      #HEADLINE475,
+      #HEADLINE478,
+      #HEADLINE480,
+      #BOX69,
+      #BOX70,
+      #BOX71,
+      #BOX73,
+      #BOX74,
+      #BOX76,
+      #BOX79,
+      #BOX81,
+      #BOX83,
+      #BOX84,
+      #BOX85,
+      #BOX86,
+      #BOX87,
+      #BOX88,
+      #BOX90,
+      #BOX92,
+      #BOX94 {
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    }
+
+    @media (max-width: 767px) {
+
+      #HEADLINE3,
+      #BUTTON3,
+      #IMAGE5,
+      #GROUP6,
+      #SHAPE34,
+      #SHAPE35,
+      #HEADLINE98,
+      #HEADLINE475,
+      #GROUP219,
+      #HEADLINE478,
+      #GROUP220,
+      #HEADLINE480,
+      #GROUP222,
+      #BOX69,
+      #BOX70,
+      #BOX71,
+      #BOX73,
+      #BOX74,
+      #BOX76,
+      #BOX79,
+      #BOX81,
+      #BOX83,
+      #BOX84,
+      #BOX85,
+      #BOX86,
+      #BOX87,
+      #BOX88,
+      #BOX90,
+      #BOX92,
+      #BOX94 {
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    }

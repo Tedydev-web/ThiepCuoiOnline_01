@@ -1,0 +1,24 @@
+    body {
+      direction: ltr;
+    }
+
+    @media (min-width: 768px) {
+      .ladi-section .ladi-container {
+        width: 960px;
+      }
+    }
+
+    @media (max-width: 767px) {
+      .ladi-section .ladi-container {
+        width: 420px;
+      }
+    }
+
+    @font-face {
+      font-family: "RmxldXJEZUxlYWgtUmVndWxhcidGY";
+      src: url("https://w.ladicdn.com/6446a909ce8883001284c7a2/fleurdeleah-regular-20231219141658-bijfj.ttf") format("truetype");
+    }
+
+    body {
+      font-family: "Roboto Slab", serif
+    }
